@@ -1,7 +1,7 @@
-package gosayhello
+package Go_sayHello
 
 func SayHello() string {
-	return "Hello Everyone"
+	return "Hello, Golang!"
 }
 
 /*
